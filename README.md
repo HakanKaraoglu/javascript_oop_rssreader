@@ -1,2 +1,4 @@
 # javascript_oop_rssreader
- Javascript OOP Rss Reader
+
+- npm install
+- npm run server
